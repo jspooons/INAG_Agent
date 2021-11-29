@@ -44,7 +44,7 @@ public class Agent1 extends AbstractNegotiationParty
 	private List<Bid> samples = new ArrayList<>();
 	
 	/**
-	 * Initializes a new instance of the agent.
+	 * Initializes a new instance of the agent. TEST COMMENT
 	 */
 	@Override
 	public void init(NegotiationInfo info) 
